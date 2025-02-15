@@ -1,6 +1,6 @@
 /*
     Template Name: luxury
-    Description: luxuryBuilder Real Estate Company
+    Description: Real Estate HTML Template
     Version: 1.0.0
 */
 /* Single side border-radius  */
@@ -4025,9 +4025,9 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 ---------------------------------------------------- */
 .ltn__breadcrumb-area {
   background-color: var(--section-bg-1);
-  margin-bottom: 80px;
-  padding-top: 60px;
-  padding-bottom: 80px;
+  margin-bottom: 120px;
+  padding-top: 110px;
+  padding-bottom: 110px;
 }
 
 .ltn__breadcrumb-list ul {

@@ -16,10 +16,10 @@ import CallToActionV1 from './section-components/call-to-action-v1';
 import Footer from './global-components/footer';
 
 const Home_V1 = () => {
+    
     return <div>
         <Navbar />
         <Banner />
-        {/* dropdown */}
         <SearchForm />
         <Aboutv1 />
         <Counter />

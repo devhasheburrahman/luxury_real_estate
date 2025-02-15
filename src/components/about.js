@@ -13,11 +13,8 @@ const About_v1 = () => {
     return <div>
         <Navbar />
         <PageHeader headertitle="About Us" />
-        {/* about us with video */}
         <AboutV4 />
-        {/* Our Main Focus */}
         <Features  customClass="ltn__feature-area section-bg-1 pt-120 pb-90 mb-120---"/>
-
         <Team />
         <Testimonial />
         <BlogSlider />

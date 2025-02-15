@@ -7,7 +7,6 @@ class CaetV1 extends Component {
 	render() {
 
 		let publicUrl = process.env.PUBLIC_URL + '/'
-		// todo work at cart pages 
 
 		return <div className="liton__shoping-cart-area mb-120">
 			<div className="container">

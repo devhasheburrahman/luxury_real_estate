@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import parse from "html-react-parser";
 
 class Banner extends Component {
   render() {
@@ -34,13 +33,12 @@ class Banner extends Component {
                           Real Estate Agency
                         </h6>
                         <h1 className="slide-title animated ">
-                          Find And Build Your Dream <br /> House By Us
+                          Find Your Dream <br /> House By Us
                         </h1>
                         <div className="slide-brief animated">
                           <p>
-                            We help you find and build your dream house with
-                            expertise and care. Your ideal home is just a step
-                            away.
+                            Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit, sed do eiusmod tempor incididunt ut labore.
                           </p>
                         </div>
                         <div className="btn-wrapper animated ">
@@ -52,7 +50,7 @@ class Banner extends Component {
                           </Link>
                           <a
                             className="ltn__video-play-btn bg-white"
-                            href="https://www.youtube.com/embed/HnbMYzdjuBs?autoplay=1&showinfo=0"
+                            href="https://www.youtube.com/embed/U2yjHZRxah0?si=s1TJVlWrCyTpQBBl?autoplay=1&showinfo=0"
                             data-rel="lightcase"
                           >
                             <i className="icon-play  ltn__secondary-color" />
